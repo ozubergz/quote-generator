@@ -1,0 +1,51 @@
+body{
+  background-color: #FF5733; 
+}
+
+h1{
+  color: #ffed14;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+h3{
+  color: #ffed14;
+  font-style: italic;
+}
+
+.title{
+  margin-top: 30px;
+  margin-bottom: -20px;
+}
+
+.quote-box{
+  margin: 8% auto auto auto;
+  padding: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  border-radius: 15px;
+  background-color: #ffed14;
+  width: 500px;
+  height:auto;
+  display: table;
+}
+
+.quote{
+  font-size: 22px;
+  font-family: Nova Flat;
+  color:#FF5733;
+}
+
+.name{
+  color: #FF5733;
+  margin-left: 200px;
+}
+
+#newQuote {
+  float: right;
+  margin-top: 50px;
+}
+
+#twitter {
+  float: left;
+  margin-top:50px;
+}
+
